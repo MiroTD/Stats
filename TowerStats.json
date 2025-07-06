@@ -806,7 +806,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 35,
+                "Damage": 300000005,
                 "Cooldown": 0.05
             },
             {
